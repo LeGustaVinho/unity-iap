@@ -1,0 +1,15 @@
+{
+    "name": "UnityIap.Editor",
+    "references": [
+        "GUID:429ed4edc2692c245b117c4baf0cc85c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

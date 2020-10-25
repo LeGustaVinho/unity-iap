@@ -1,0 +1,20 @@
+{
+  "name": "com.legustavinho.unity-iap",
+  "displayName": "Unity IAP",
+  "version": "2.1.0",
+  "unity": "2018.4",
+  "type": "library",
+  "keywords": [],
+  "category": "Extensions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeGustaVinho/unity-iap.git"
+  },
+  "dependencies": {
+    "com.unity.purchasing": "2.1.0",
+  },
+  "author": {
+    "name": "Unity",
+    "url": "https://assetstore.unity.com/packages/add-ons/services/billing/unity-iap-68207"
+  }
+}
