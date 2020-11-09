@@ -1,7 +1,7 @@
 {
     "name": "UnityIap",
     "references": [
-        "GUID:e25a61468ff30f44fad56a6b40062363"
+        "GUID:60bfecf5cb232594891bc622f40d6bed"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
